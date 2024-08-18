@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! My name is Rajesh Raman Bosak and I'm a Senior Software Developer.</h2>
 
+
 ###
 
 <div align="center">
@@ -72,6 +73,15 @@ Here are some ideas to get you started:
   [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](mailto:rajeshraman63@gmail.com)
   [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>](https://www.linkedin.com/in/rajeshraman63/)
   
+</div>
+
+### 
+
+
+<div align="center"> 
+
+  ![](https://leetcard.jacoblin.cool/rajeshbosak89?ext=heatmap)
+
 </div>
 
 ###
