@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Rajesh Raman Bosak and I'm a Senior Software Developer.</h2>
+<h2 align="left">Hi ! My name is Rajesh Raman Bosak and I'm a Senior Software Developer.</h2>
 
 
 ###
