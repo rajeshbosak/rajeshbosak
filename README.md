@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi ! My name is Rajesh Raman Bosak and I'm a Senior Software Developer.</h2>
 
-## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=rajeshbosak&label=Profile%20views&color=0e75b6&style=flat)
 
 
